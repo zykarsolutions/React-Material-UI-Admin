@@ -1,70 +1,88 @@
-# Getting Started with Create React App
+# React Material Admin Dashboard — Template
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+React Admin is a React template 
 
-## Available Scripts
+Built with [React](https://facebook.github.io/react/), [Material-UI](https://material-ui.com), [React Router](https://reacttraining.com/react-router/).
+**No jQuery and Bootstrap!**
 
-In the project directory, you can run:
+**This version uses React 16.14.0, React Router v5, MaterialUI v4, built with React Hooks and React Context (No Redux)**
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[![image](https://user-images.githubusercontent.com/24964748/55800639-df780300-5adc-11e9-84b7-7c2437088516.png)](https://flatlogic.com/admin-dashboards/react-material-admin/demo)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Full Version
 
-### `npm test`
+React Admin is a React template built with Material-UI
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features
 
-### `npm run build`
+- React (**16.14.0**)
+- React Hooks
+- React Context
+- **No jQuery and Bootstrap!**
+- Mobile friendly layout (responsive)
+- Create-react-app under the hood
+- React Router v5
+- Material-UI v4
+- Modular Architecture
+- CSS-in-JS styles
+- Webpack build
+- Stylish & clean
+- [X] Authentication
 
-Builds the app for production to the `build` folder.\
+## Pages
+
+We have implemented some basic pages, so you can see our template in action.
+
+- Dashboard
+- [X] Typography
+- Tables
+- [X] Notifications
+- Charts
+- Icons
+- [X] Maps
+- [X] Login
+- [X] Error
+
+## Quick Start
+
+#### 1. Get the latest version
+
+You can start by cloning the latest version of React Dashboard on your
+local machine by running:
+
+```shell
+$ git clone https://github.com/zykarsolutions/React-Material-UI-Admin.git MyApp
+
+$ cd MyApp
+```
+
+#### 2. Run `yarn install`
+
+This will install both run-time project dependencies and developer tools listed
+in [package.json](package.json) file.
+
+#### 3. Run `yarn start`
+
+Runs the app in the development mode.
+
+Open http://localhost:3000 to view it in the browser. Whenever you modify any of the source files inside the `/src` folder,
+the module bundler ([Webpack](http://webpack.github.io/)) will recompile the
+app on the fly and refresh all the connected browsers.
+
+#### 4. Run `yarn build`
+
+Builds the app for production to the build folder.
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
+The build is minified and the filenames include the hashes.
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+## Premium themes
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Looking for custome theme development? Check out more [web app templates at zykarsolutions.com](https://zykarsolutions.com/services/design-development/).
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## License
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[MIT](https://github.com/zykarsolutions/React-Material-UI-Admin/blob/main/LICENSE.md).
