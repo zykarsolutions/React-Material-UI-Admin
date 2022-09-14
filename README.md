@@ -28,7 +28,7 @@ React Admin is a React template built with Material-UI
 - [X] CSS-in-JS styles
 - [X] Webpack build
 - [X] Stylish & clean
-- [] Authentication
+- [ ] Authentication
 
 ## Pages
 
@@ -39,7 +39,7 @@ We have implemented some basic pages, so you can see our template in action.
 - [X] Tables
 - [ ] Notifications
 - [X] Charts
-- [ ] Icons
+- [X] Icons
 - [ ] Maps
 - [ ] Login
 - [ ] Error
