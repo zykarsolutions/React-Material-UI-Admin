@@ -16,33 +16,33 @@ React Admin is a React template built with Material-UI
 
 ## Features
 
-- React (**16.14.0**)
-- React Hooks
-- React Context
-- **No jQuery and Bootstrap!**
-- Mobile friendly layout (responsive)
-- Create-react-app under the hood
-- React Router v5
-- Material-UI v4
-- Modular Architecture
-- CSS-in-JS styles
-- Webpack build
-- Stylish & clean
-- [X] Authentication
+- [X] React (**16.14.0**)
+- [X] React Hooks
+- [X] React Context
+- [X] **No jQuery and Bootstrap!**
+- [X] Mobile friendly layout (responsive)
+- [X] Create-react-app under the hood
+- [X] React Router v5
+- [X] Material-UI v4
+- [X] Modular Architecture
+- [X] CSS-in-JS styles
+- [X] Webpack build
+- [X] Stylish & clean
+- [] Authentication
 
 ## Pages
 
 We have implemented some basic pages, so you can see our template in action.
 
-- Dashboard
-- [X] Typography
-- Tables
-- [X] Notifications
-- Charts
-- Icons
-- [X] Maps
-- [X] Login
-- [X] Error
+- [X] Dashboard
+- [ ] Typography
+- [X] Tables
+- [ ] Notifications
+- [X] Charts
+- [ ] Icons
+- [ ] Maps
+- [ ] Login
+- [ ] Error
 
 ## Quick Start
 
