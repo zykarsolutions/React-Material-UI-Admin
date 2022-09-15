@@ -8,7 +8,7 @@ Built with [React](https://facebook.github.io/react/), [Material-UI](https://mat
 **This version uses React 16.14.0, React Router v5, MaterialUI v4, built with React Hooks and React Context (No Redux)**
 
 
-![Screenshot](https://user-images.githubusercontent.com/17261110/190501407-dd7028ef-4415-4c09-80cc-93867f221c46.png)
+![image](https://user-images.githubusercontent.com/17261110/190513209-439cc469-266c-4899-adc9-b57c84e9cf43.png)
 
 ## Full Version
 
