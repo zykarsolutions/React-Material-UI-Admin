@@ -16,7 +16,7 @@ React Admin is a React template built with Material-UI
 
 ## Features
 
-- [X] React (**16.14.0**)
+- [X] React (**18.2.0**)
 - [X] React Hooks
 - [X] React Context
 - [X] **No jQuery and Bootstrap!**
