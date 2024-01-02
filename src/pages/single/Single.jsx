@@ -21,11 +21,11 @@ const Single = () => {
                 <h1 className="itemTitle">Jane Doe</h1>
                 <div className="detailItem">
                   <span className="itemKey">Phone :</span>
-                  <span className="itemKey">+260 975 502 085</span>
+                  <span className="itemKey">+260 XXX XXX XXX</span>
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Address :</span>
-                  <span className="itemKey">256 Collect House, Buteko Avenue , Ndola</span>
+                  <span className="itemKey">256 Liberty House, Place Avenue , Zambia</span>
                 </div>
                 <div className="detailItem">
                   <span className="itemKey">Country :</span>
