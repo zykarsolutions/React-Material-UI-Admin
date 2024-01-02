@@ -58,6 +58,7 @@ $ cd MyApp
 ```
 
 #### 2. Run `yarn install`
+Install Yarn (npm install --global yarn).
 
 This will install both run-time project dependencies and developer tools listed
 in [package.json](package.json) file.
