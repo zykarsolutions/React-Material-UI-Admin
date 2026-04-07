@@ -1,4 +1,4 @@
-# React Material Admin Dashboard — Template
+m# React Material Admin Dashboard — Template
 
 React Admin is a React template 
 
@@ -87,3 +87,11 @@ Looking for custome theme development? Check out more [web app templates at zyka
 ## License
 
 [MIT](https://github.com/zykarsolutions/React-Material-UI-Admin/blob/main/LICENSE.md).
+
+## 📦 Repository Archived
+
+This repository has been archived and is no longer actively maintained.
+
+The code remains available for reference and learning purposes, but no new features, bug fixes, or pull requests will be accepted.
+
+Thank you to everyone who contributed and used this project.
